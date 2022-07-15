@@ -22,6 +22,7 @@ export class Tab1Page  {
 
   ionViewDidEnter() {
     this.test2();
+     // 실험
      /* setTimeout(async()=>{
        console.log(await this.stepcounter.getStepCount());
        console.log(await this.stepcounter.deviceCanCountSteps());
